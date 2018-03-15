@@ -1,4 +1,3 @@
 .idea
 .venv
-
-#teste
+__pycache__
